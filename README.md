@@ -1,4 +1,4 @@
-# vue-code_iginter4-crud
+# vue-code_igniter4-crud
 
 Cause error:
    Step 1: npm install
